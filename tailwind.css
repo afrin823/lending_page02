@@ -13,6 +13,8 @@ font-family: 'Poppins', sans-serif;
 }
 .banner-02{
     background-image: url('img/pexels-ketut-subiyanto-4308102\ 1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .banner-03{
     background-image: url('img/pexels-thành-trần-13863157 1.png');
