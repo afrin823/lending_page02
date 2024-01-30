@@ -6,8 +6,10 @@ font-family: 'Poppins', sans-serif;
 #check:checked ~ ul{
     left: 0;
 }
-.banner-img{
+.banner-01{
     background-image: url('img/pexels-darina-belonogova-7208920 1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .banner-02{
     background-image: url('img/pexels-ketut-subiyanto-4308102\ 1.png');
