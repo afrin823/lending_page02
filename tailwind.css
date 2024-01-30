@@ -24,3 +24,7 @@ font-family: 'Poppins', sans-serif;
     background-repeat: no-repeat;
     background-size: cover;
 }
+.small-img{
+    background-image: url('img/pexels-rodnae-productions-7581127 1.png');
+    background-repeat: no-repeat;
+}
